@@ -25,5 +25,6 @@ Complete guide for every data standardization and transformation technique with 
 - Quantile Transformer
 - Power Transformer
 
+Article: https://soniheet6498.medium.com/a-guide-to-data-standardization-transformation-1bf98d9b13b4
 
 
