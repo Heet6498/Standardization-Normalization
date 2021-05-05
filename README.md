@@ -22,8 +22,8 @@ Complete guide for every data standardization and transformation technique with 
 - Boxcox transformation
 
 ### Methods which standardization and transformation at the same time
--Quantile Transformer
--Power Transformer
+- Quantile Transformer
+- Power Transformer
 
 
 
